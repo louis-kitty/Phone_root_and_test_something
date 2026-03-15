@@ -8,7 +8,7 @@ oneplus 15 (ROOT)
 使用termux   
 使用模組  
 {  
-sudo nmap ping3  
+sudo nmap hping3  
 }  
 
 在內網測試的情況下  
