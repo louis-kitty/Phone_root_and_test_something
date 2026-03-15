@@ -1,4 +1,4 @@
 # Phone_root_and_test_something
-just Repository don't mine
-and
-use chinese but i from taiwan
+just Repository  
+and i use chinese  
+i from taiwan  
